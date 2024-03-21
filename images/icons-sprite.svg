@@ -1,0 +1,10 @@
+<svg width="0" height="0" class="hidden">
+  <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 14" id="mobile-nav">
+    <line y1="1" x2="30" y2="1" stroke="black" stroke-width="2"></line>
+    <line y1="7" x2="30" y2="7" stroke="black" stroke-width="2"></line>
+    <line y1="13" x2="30" y2="13" stroke="black" stroke-width="2"></line>
+  </symbol>
+  <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 13" id="ka-logo">
+    <path d="M0.684 13V0.399999H3.186V5.548H3.258L5.472 0.399999H7.794L5.796 4.9L7.956 13H5.31L3.96 7.672L3.186 9.094V13H0.684ZM8.40783 13L10.8918 0.327999H14.0598L16.5798 13H13.9878L13.5018 10.354H11.1078L10.6398 13H8.40783ZM11.4858 8.284H13.1418L12.3318 3.766H12.2418L11.4858 8.284Z" fill="#131210"></path>
+  </symbol>
+</svg>
